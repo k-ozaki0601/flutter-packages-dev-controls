@@ -1,0 +1,4 @@
+enum SelectionsOrientationDefine {
+  HORIZONTAL,
+  VERTICAL,
+}
