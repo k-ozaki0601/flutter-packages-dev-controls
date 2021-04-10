@@ -17,3 +17,6 @@ export 'src/controls/text_form_field_ex.dart';
 export 'src/controls/textarea_form_field.dart';
 export 'src/controls/url_text_form_field.dart';
 export 'src/controls/validation/validator_builder.dart';
+
+export 'src/model/label_value.dart';
+
